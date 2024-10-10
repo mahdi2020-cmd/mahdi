@@ -5,3 +5,6 @@
     margin: auto;
     display: flex;
 }
+body {
+    background-attachment: red;
+}
