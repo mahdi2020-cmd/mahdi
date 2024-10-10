@@ -7,5 +7,5 @@
 }
 body {
     background-attachment: red;
-    display: block;
+    display: inline-block;
 }
