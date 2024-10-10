@@ -1,1 +1,1 @@
-mt name is mahdi and 
+const mad= 10;
